@@ -1,4 +1,9 @@
 .idea
+
+### server ###
+server/node_modules
+server/package-lock.json
+
 ### react ###
 webui/package-lock.json
 webui/logs
